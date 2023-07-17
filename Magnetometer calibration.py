@@ -15,8 +15,8 @@ line_x = [[-600, 600], [0, 0], [0, 0]]
 line_y = [[0, 0], [-600, 600], [0, 0]]
 line_z = [[0, 0], [0, 0], [-600, 600]]
 
-FILE_PATH = "Users/zhenghong/Documents/UAV Project 2018/Teensy-Flight-Controller/"
-INPUT_FILE = "mag_output_outlier.txt"
+#FILE_PATH = ""
+#INPUT_FILE = ""
 file = open(INPUT_FILE, "r")
 
 fig = plt.figure()
